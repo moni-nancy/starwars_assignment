@@ -76,6 +76,7 @@ box-shadow: rgb(32, 152, 209) 0px 0px 10px 3px, rgb(0, 0, 0) 0px 0px 10px
 
 .head-date span{
 color: rgb(157, 157, 157);
+padding-top: 0.7rem;
 font-size: 1rem;
 }
 
